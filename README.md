@@ -23,4 +23,14 @@ un objet qui calcul le montant total
 
 # Backend/DB
 
-Separation des produits par category
+trois table
+
+### users
+enregistre les users leur information et leur mot de passe
+
+### produit 
+enregistre les produits disponible
+
+### commande
+
+enregistre tous les commandes fait par client est une table associative avec une primary key
