@@ -1,4 +1,6 @@
 <?php 
+//link au file css
+<link rel="stylesheet" type="text/css" href="css/cssfile.css">
 //variable
 enum Categorie
 {//nomenclature-> majuscule snakecase
@@ -14,6 +16,11 @@ $produit
 //minimum 1 je l'initialise immediatement
 $quantite=1;
 $date_livraison;
+
+
+//generation du formulaire
+echo 
+
 
 
 ?>

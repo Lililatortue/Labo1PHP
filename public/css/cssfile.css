@@ -1,0 +1,17 @@
+.container{
+/* box feature*/
+border:5px solid black;
+border: radius 30px; 
+
+display: flex;
+justify-content: center;
+}
+
+.containerrow{
+/*row in container*/
+border:5px solid black;
+border: radius 30px; 
+
+display: flex;
+margin: 10px;
+}
